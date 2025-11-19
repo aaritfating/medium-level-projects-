@@ -1,1 +1,11 @@
-
+fake file system + command-line shell in C++.
+It runs in the terminal and supports commands like:
+ls – list files and folders
+cd <folder> – change directory
+mkdir <name> – create a folder
+touch <name> – create a file
+write <file> <text> – write text to a file
+read <file> – display file content
+rm <file> / rmdir <folder> – delete things
+tree – show directory tree
+save / load – save your whole virtual file system to a real file and restore it later
