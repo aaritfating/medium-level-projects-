@@ -9,3 +9,6 @@ read <file> – display file content
 rm <file> / rmdir <folder> – delete things
 tree – show directory tree
 save / load – save your whole virtual file system to a real file and restore it later
+
+
+done file structed after a lot of try and error day 1 (date nov 20 2025 ) .... created base file structer and whole sys logic which will help me a lot in next... and 
